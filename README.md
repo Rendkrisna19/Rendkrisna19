@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Rendkrisna19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-<!---
-Rendkrisna19/Rendkrisna19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Description
+Flower code tiktok trend 
+
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+
+Thanks to codepan and mdusmanansari
